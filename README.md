@@ -21,12 +21,22 @@ To set up TradeFolio locally, follow these steps:
 2.Navigate to the project directory:
 
 sh
+
+
 cd TradeFolio
+
+
+
 Open the index.html file in your browser to start using the application.
 
 
 Usage
+
+
+
 Login or Sign Up to access your trading dashboard.
+
+
 
 Record trades with relevant details.
 
